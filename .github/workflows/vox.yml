@@ -1,0 +1,45 @@
+name: VOX watcher
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "run or test"
+        default: "run"
+  schedule:
+    - cron: "*/5 * * * *"   # backup schedule (GitHub may run it late)
+
+concurrency:
+  group: vox
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: pip install requests beautifulsoup4
+
+      - name: Check VOX
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          WATCH_CINEMAS: ${{ vars.WATCH_CINEMAS }}
+        run: python vox.py ${{ github.event.inputs.mode == 'test' && '--test' || '' }}
+
+      - name: Save state
+        run: |
+          git config user.name "vox-bot"
+          git config user.email "vox-bot@users.noreply.github.com"
+          git add state.json 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "update state" && git push)
