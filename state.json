@@ -2,7 +2,7 @@
   "movies": {
     "wala-kan-ala-el-bal-arabic": {
       "title": "Wala Kan Ala El-Bal",
-      "alerted": false,
+      "alerted": true,
       "cinemas": [
         "City Centre Alexandria",
         "City Centre Almaza",
@@ -363,6 +363,16 @@
       "title": "Day Drinker",
       "alerted": false,
       "cinemas": [],
+      "last_seen": "2026-10-27"
+    },
+    "matloub-3a2eleyain-arabic": {
+      "title": "Matloub 3a2eleyain",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-10-27"
     }
   },
