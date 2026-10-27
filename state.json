@@ -2,7 +2,7 @@
   "movies": {
     "wala-kan-ala-el-bal-arabic": {
       "title": "Wala Kan Ala El-Bal",
-      "alerted": false,
+      "alerted": true,
       "cinemas": [
         "City Centre Alexandria",
         "City Centre Almaza",
