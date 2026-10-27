@@ -1,0 +1,380 @@
+{
+  "movies": {
+    "wala-kan-ala-el-bal-arabic": {
+      "title": "Wala Kan Ala El-Bal",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "matloub-3a2eleyain-arabic": {
+      "title": "Matloub 3a2eleyain",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "clayface": {
+      "title": "Clayface",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "whalefall": {
+      "title": "Whalefall",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "other-mommy": {
+      "title": "Other Mommy",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "verity": {
+      "title": "Verity",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "heart-of-the-beast": {
+      "title": "Heart of the Beast",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "street-fighter": {
+      "title": "Street Fighter",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "resident-evil": {
+      "title": "Resident Evil",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "the-odyssey": {
+      "title": "The Odyssey",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "naseeb-arabic": {
+      "title": "Naseeb",
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "mahmoud-el-tany-arabic": {
+      "title": "Mahmoud El Tany",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "red-flag-arabic": {
+      "title": "Red Flag",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "digger": {
+      "title": "Digger",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "avengers-endgame-encore-infinity-vision": {
+      "title": "Avengers Endgame: Encore (Infinity Vision)",
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "shish-dou-arabic": {
+      "title": "Shish Dou",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "spider-man-brand-new-day": {
+      "title": "Spider-Man: Brand New Day",
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "the-smurfs-timeless-adventure-volume-2": {
+      "title": "The Smurfs Timeless Adventure Volume 2",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "the-magic-faraway-tree": {
+      "title": "The Magic Faraway Tree",
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "infiltrate": {
+      "title": "Infiltrate",
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "no-paradise-if-you-are-killed-by-a-woman": {
+      "title": "No Paradise if You Are Killed by a Woman",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "soy-turkish": {
+      "title": "Soy",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "soy-arabic": {
+      "title": "Soy",
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "the-dino-family": {
+      "title": "The Dino Family",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "enhypen-world-tour-blood-saga": {
+      "title": "ENHYPEN WORLD TOUR 'BLOOD SAGA'",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "hybe-cheering-party-3d": {
+      "title": "HYBE CHEERING PARTY 3D",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "bts-world-tour-arirang-in-s-o-paulo-live": {
+      "title": "BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: LIVE",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "avengers-doomsday-infinity-vision": {
+      "title": "Avengers: Doomsday (Infinity Vision)",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "dune-part-three": {
+      "title": "Dune: Part Three",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-27"
+    },
+    "the-mongoose": {
+      "title": "18TC The Mongoose",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-27"
+    },
+    "sense-and-sensibility": {
+      "title": "Sense and Sensibility",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-27"
+    },
+    "the-influencer-project": {
+      "title": "The Influencer Project",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-27"
+    },
+    "wildwood": {
+      "title": "Wildwood",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-27"
+    },
+    "hope-korean": {
+      "title": "Hope",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-27"
+    },
+    "bts-world-tour-arirang-in-s-o-paulo-delayed": {
+      "title": "BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: DELAYED",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-27"
+    },
+    "godzilla-minus-zero-preview-screening-japanese": {
+      "title": "Godzilla Minus Zero - Preview Screening",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-27"
+    },
+    "the-cat-in-the-hat": {
+      "title": "The Cat In The Hat",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-27"
+    },
+    "godzilla-minus-zero-japanese": {
+      "title": "Godzilla Minus Zero",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-27"
+    },
+    "hadoota-arabic": {
+      "title": "Hadoota",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-27"
+    },
+    "the-hunger-games-sunrise-on-the-reaping": {
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-27"
+    },
+    "hexed": {
+      "title": "Hexed",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-27"
+    },
+    "violent-night-2": {
+      "title": "Violent Night 2",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-27"
+    },
+    "avengers-doomsday": {
+      "title": "Avengers: Doomsday",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-27"
+    },
+    "jumanji-open-world": {
+      "title": "Jumanji: Open World",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-27"
+    },
+    "children-of-blood-and-bone": {
+      "title": "Children of Blood and Bone",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-27"
+    },
+    "narnia-the-magicians-nephew": {
+      "title": "Narnia: The Magician's Nephew",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-27"
+    },
+    "day-drinker": {
+      "title": "Day Drinker",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-27"
+    }
+  },
+  "initialized": true
+}
