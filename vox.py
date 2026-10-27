@@ -58,12 +58,21 @@ CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
 # Optional, comma separated, e.g. "Almaza,Mall of Egypt". Empty = any cinema.
 WATCH_CINEMAS = [c.strip().lower() for c in os.environ.get("WATCH_CINEMAS", "").split(",") if c.strip()]
 
-session = requests.Session()
-session.headers.update({
-    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                   "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"),
+BROWSER_HEADERS = {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9",
-})
+}
+try:
+    # curl_cffi makes the connection look like a real Chrome browser
+    from curl_cffi import requests as browser_requests
+    session = browser_requests.Session(impersonate="chrome")
+    CLIENT = "curl_cffi (Chrome)"
+except ImportError:
+    session = requests.Session()
+    session.headers["User-Agent"] = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                                     "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+    CLIENT = "requests"
+session.headers.update(BROWSER_HEADERS)
 
 
 # ---------- helpers ----------
@@ -168,6 +177,7 @@ def get_chat_id():
 
 
 def test():
+    print(f"Using: {CLIENT}")
     print("Fetching Coming Soon...")
     soon = list_movies(fetch(COMING_SOON_URL))
     print(f"  {len(soon)} movies: {', '.join(list(soon.values())[:8])}{' ...' if len(soon) > 8 else ''}")
