@@ -392,6 +392,14 @@
       "alerted": false,
       "cinemas": [],
       "last_seen": "2026-10-28"
+    },
+    "seventeen-world-tour-new": {
+      "title": "SEVENTEEN WORLD TOUR 'NEW_'",
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
+      "last_seen": "2026-10-28"
     }
   },
   "initialized": true
