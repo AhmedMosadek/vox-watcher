@@ -374,6 +374,12 @@
         "Mall of Egypt"
       ],
       "last_seen": "2026-10-28"
+    },
+    "moscow-cairo-arabic": {
+      "title": "Moscow Cairo",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-28"
     }
   },
   "initialized": true
