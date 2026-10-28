@@ -337,8 +337,10 @@
     },
     "avengers-doomsday": {
       "title": "Avengers: Doomsday",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Alexandria"
+      ],
       "last_seen": "2026-10-28"
     },
     "jumanji-open-world": {
