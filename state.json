@@ -240,7 +240,7 @@
     },
     "avengers-doomsday-infinity-vision": {
       "title": "Avengers: Doomsday (Infinity Vision)",
-      "alerted": true,
+      "alerted": false,
       "cinemas": [
         "City Centre Alexandria",
         "City Centre Almaza"
