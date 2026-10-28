@@ -259,32 +259,42 @@
     },
     "the-mongoose": {
       "title": "18TC The Mongoose",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-10-28"
     },
     "sense-and-sensibility": {
       "title": "Sense and Sensibility",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-10-28"
     },
     "the-influencer-project": {
       "title": "The Influencer Project",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-10-28"
     },
     "wildwood": {
       "title": "Wildwood",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-10-28"
     },
     "hope-korean": {
       "title": "Hope",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-10-28"
     },
     "bts-world-tour-arirang-in-s-o-paulo-delayed": {
